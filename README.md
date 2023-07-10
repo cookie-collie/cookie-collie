@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- Body text: Size 4 -->
 
-<!--
-**cookie-collie/cookie-collie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🍪 About me
 
-Here are some ideas to get you started:
+Hey hey, welcome! My name is Cookie, I'm a doggo on the Internet who loves computers and coding (hence, the existence of this account, hehe). I also love drawing, streaming, and playing games with my friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔗 Social links
+
+You can find my socials here:
+
++ [My Twitter](https://twitter.com/CookieCollie)
++ [My Twitch](https://www.twitch.tv/cookiecollie)
++ [My Discord Server](https://discord.gg/YrhgDeSZDX)
+
+# 💸 Tips
+
+If you love what I do and want to support, you can tip me through my Ko-fi!
+
+[My Ko-fi](https://ko-fi.com/cookiecollie)
+
+# Credits
+
++ Profile picture by [@MegasArts](https://twitter.com/megasarts)
